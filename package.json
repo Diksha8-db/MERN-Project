@@ -1,0 +1,16 @@
+{
+  "name": "mern-project",
+  "version": "1.0.0",
+  "description": "First backend project - credits to hitesh sir",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Diksha Bharti",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js"
+  }
+}
